@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="block_images">
+        <item>@drawable/ic_block_01</item>
+        <item>@drawable/ic_block_02</item>
+        <item>@drawable/ic_block_03</item>
+        <item>@drawable/ic_block_04</item>
+        <item>@drawable/ic_block_05</item>
+        <item>@drawable/ic_block_06</item>
+        <item>@drawable/ic_block_07</item>
+        <item>@drawable/ic_block_08</item>
+        <item>@drawable/ic_block_09</item>
+        <item>@drawable/ic_block_10</item>
+        <item>@drawable/ic_block_11</item>
+        <item>@drawable/ic_block_12</item>
+        <item>@drawable/ic_block_13</item>
+        <item>@drawable/ic_block_14</item>
+        <item>@drawable/ic_block_15</item>
+        <item>@drawable/ic_empty</item>
+    </integer-array>
+</resources>

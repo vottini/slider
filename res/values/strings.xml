@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="new_game_button">New Game</string>
+    <string name="continue_game_button">Continue Game</string>
+    <string name="view_policy">Privacy Policy</string>
+    <string name="policy_title">Privacy Policy</string>
+    <string name="policy_text">This application doesn\'t store any personal data. No connection is done from this application to any remote database, nor is any data stored in your device other than the saved state of the game.</string>
+</resources>
